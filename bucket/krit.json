@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1-rc1",
   "description": "Fast Kotlin static analysis powered by tree-sitter",
   "homepage": "https://github.com/kaeawc/krit",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kaeawc/krit/releases/download/v0.1.0/krit_0.1.0_windows_amd64.zip",
-      "hash": "1b2d372eb032d920477c85911174d0c24c52a5db771cf2cc9701be04e8382bb4"
+      "url": "https://github.com/kaeawc/krit/releases/download/v0.1.1-rc1/krit_0.1.1-rc1_windows_amd64.zip",
+      "hash": "a3993c3e3cdd53b1335374ff3bbdbe6ef32d667e3f0197105e5e2ad4c8640ba5"
     }
   },
   "bin": [

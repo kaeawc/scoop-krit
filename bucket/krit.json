@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/kaeawc/krit/releases/download/v0.1.1-rc1/krit_0.1.1-rc1_windows_amd64.zip",
-      "hash": "a3993c3e3cdd53b1335374ff3bbdbe6ef32d667e3f0197105e5e2ad4c8640ba5"
+      "hash": "12a8028e364af64dd3abc874f0ec17b987a5df843ea0ff76cef17d74cbf9a14e"
     }
   },
   "bin": [
